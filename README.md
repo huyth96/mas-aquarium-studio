@@ -6,7 +6,7 @@ Open https://huyth96.github.io/mas-aquarium-studio/planner/
 
 ## September 2026 update
 
-- Emerald Passage: a curated planted valley opens by default, with a direct presentation link.
+- Emerald Passage: an open central sand path, six plant groups, two distinct hardscape focal points and seven animals, with a direct presentation link.
 - 13 animal types: 5 fish, 4 shrimp and 4 snails, placed individually.
 - Four stone and wood illustrations with drag, size, angle, mirror and lock controls.
 - Complete named aquarium projects saved locally on the device; editable scene sharing links.
