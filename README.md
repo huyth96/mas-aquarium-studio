@@ -8,6 +8,7 @@ Open https://huyth96.github.io/mas-aquarium-studio/planner/
 
 - Emerald Passage opens at the default planner link: an open sand path, six plant groups, two distinct hardscape focal points and ten animals. Guppy, Harlequin rasbora and Ember tetra swim above the Neon tetras in clear upper and middle water.
 - 13 animal types: 5 fish, 4 shrimp and 4 snails, placed individually.
+- Fish cruise in full profile and turn only when completely beyond the glass edge; swimming pace, drag position and saved heading stay editable.
 - Four stone and wood illustrations with drag, size, angle, mirror and lock controls.
 - Complete named aquarium projects saved locally on the device; editable scene sharing links.
 - Lighting and water controls, zoom, focus view and image download.
