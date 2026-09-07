@@ -10,7 +10,7 @@ The standalone preview also opens at https://huyth96.github.io/mas-aquarium-stud
 
 ## One aquarium, two views
 
-- The 2D builder is the main editor. On a phone, select an object, choose **Move to a spot**, then tap its new position. Mouse dragging remains available.
+- The 2D builder is the main editor. Drag objects directly with a finger or mouse. Selecting an object exposes size buttons beside the tank; More opens detailed controls and an optional tap-to-position mode.
 - The fullscreen 3D preview reads the same complete scene: the tank footprint, individual objects, placement, scale and lighting. Its catalogue supports all 13 animal types, four plant types and four hardscape types.
 - The arrangement is read-only in 3D. Orbit, zoom, switch camera angles or download an image; return to 2D to move, add or remove objects.
 - Preview lighting and water controls can be applied back to the 2D scene as one undoable change. Opening and closing without changing these settings leaves the layout and history unchanged.
