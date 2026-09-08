@@ -4,33 +4,20 @@ Public interactive prototype for Micro Aquatic Shop.
 
 Open https://huyth96.github.io/mas-aquarium-studio/planner/
 
-Arrange your aquarium in 2D, then choose **View my aquarium in 3D** to explore the same scene.
+## Arrange, explore, review
 
-The standalone preview also opens at https://huyth96.github.io/mas-aquarium-studio/studio-3d/
+- Arrange plants, animals and hardscape in a fixed layered aquarium view. Use Measured map for the tank footprint and layout spacing; choose View in 3D to explore the same scene from different angles.
+- Search and filter a 21-item catalogue: four plants, thirteen animals and four hardscape illustrations. Product cards use shop photographs where available; aquarium objects remain illustrations.
+- The product panel sits beside the aquarium on desktop and opens from the bottom on mobile. Choose a product, then tap the aquarium to place it. Existing direct drag, size controls, undo, projects and scene sharing remain available.
+- Your selection groups placed objects and keeps purchase quantities separate from layout counts. Actual sale options include individual animals, packs, pots and plant bundles.
+- Seventeen linked shop products have dated AUD guide prices and verified variant mappings. Availability checks only accept known product and variant IDs with unchanged option titles. Current prices, stock, shipping and checkout are reviewed at MAS via a Shopify cart permalink.
+- Stone and wood remain in-store consultation items and are excluded from the online cart.
+- The 3D preview loads on demand and closes back to the same editable aquarium. Mobile Smooth rendering reduces scene rendering work.
 
-## One aquarium, two views
+## Prototype limits
 
-- The 2D builder is the main editor. Drag objects directly with a finger or mouse. Selecting an object exposes size buttons beside the tank; More opens detailed controls and an optional tap-to-position mode.
-- The fullscreen 3D preview reads the same complete scene: the tank footprint, individual objects, placement, scale and lighting. Its catalogue supports all 13 animal types, four plant types and four hardscape types.
-- The arrangement is read-only in 3D. Orbit, zoom, switch camera angles or download an image; return to 2D to move, add or remove objects.
-- Preview lighting and water controls can be applied back to the 2D scene as one undoable change. Opening and closing without changing these settings leaves the layout and history unchanged.
-- Named projects and share links use the same complete aquarium data. There is no separate 3D project or save slot.
-- A mobile Smooth rendering profile reduces resolution and rendering work. The 3D renderer loads on demand and is unmounted when the preview closes; the underlying 2D animation pauses while it is open.
+This is a visual planning prototype, not a physical simulator or stocking/compatibility adviser. Product sale-size notes are shown separately from illustration scale; images and mature plant groups do not claim exact delivered dimensions. Accurate product calibration needs consistent measured assets from the shop.
 
-This is a visual prototype with illustrative models, not a photorealistic simulator. Mobile settings are intended to reduce rendering work; performance has not been measured on a physical phone. It does not modify the Micro Aquatic Shop storefront.
+Guide prices were checked on 8 September 2026. Final prices and stock are confirmed at MAS. Purchase choices are session-only; named aquarium layouts are stored in the visitor's browser and can be shared by scene link. This repository contains the compiled prototype and does not alter the MAS Shopify theme. Physical-phone performance has not been measured.
 
-## September 2026 update
-
-- Refined leaf, stone and wood materials; a fuller fern and Rotala canopy in the sample layout.
-- The 2D tank appears earlier on mobile; direct size controls sit immediately below it.
-
-- Emerald Passage opens at the default planner link: an open sand path, six plant groups, two distinct hardscape focal points and ten animals. Guppy, Harlequin rasbora and Ember tetra swim above the Neon tetras in clear upper and middle water.
-- 13 animal types: 5 fish, 4 shrimp and 4 snails, placed individually.
-- Four plant types: Anubias, Java fern, Crypt and Rotala.
-- In 2D, fish cruise in full profile and turn only when completely beyond the glass edge; swimming pace, position and saved heading stay editable.
-- Four stone and wood types with move, size, angle, mirror and lock controls in the 2D builder.
-- Complete named aquarium projects saved locally on the device; editable scene sharing links.
-- Lighting and water controls, zoom, focus view and image download.
-- A grouped aquarium list links plants and animals to MAS product information. Actual hardscape is selected with the shop in store.
-
-This repository contains the compiled public website. It is a layout illustration, not livestock compatibility or stocking advice. Most animal sprites are AI illustrations; the gold mystery snail is cut out from a MAS product photograph. Saved projects stay in the visitor's browser unless they choose to share a scene link.
+Most aquarium sprites are AI illustrations; the gold mystery snail uses a cutout from a MAS product photograph. The optional standalone 3D preview is at https://huyth96.github.io/mas-aquarium-studio/studio-3d/.
