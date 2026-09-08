@@ -21,6 +21,9 @@ This is a visual prototype with illustrative models, not a photorealistic simula
 
 ## September 2026 update
 
+- Refined leaf, stone and wood materials; a fuller fern and Rotala canopy in the sample layout.
+- The 2D tank appears earlier on mobile; direct size controls sit immediately below it.
+
 - Emerald Passage opens at the default planner link: an open sand path, six plant groups, two distinct hardscape focal points and ten animals. Guppy, Harlequin rasbora and Ember tetra swim above the Neon tetras in clear upper and middle water.
 - 13 animal types: 5 fish, 4 shrimp and 4 snails, placed individually.
 - Four plant types: Anubias, Java fern, Crypt and Rotala.
